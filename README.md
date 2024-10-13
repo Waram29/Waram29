@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Josué Monrevson WAMOLOMA</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Waram29.Waram29" />
+ 
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Hi+There!+👋;+I'm+Monrevson+WAMOLOMA!;" />
 <h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working on **my FYP : Study and implementation of a semantic search system (by concept) using word embeddings and GPT models.**
